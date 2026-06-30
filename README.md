@@ -53,7 +53,7 @@ QwenOllama
 Örnek model indirme:
 
 ```powershell
-ollama pull qwen2.5:7b
+ollama pull qwen3.6:latest
 ```
 
 Ollama varsayılan olarak şu adreste çalışmalıdır:
@@ -70,7 +70,7 @@ Uygulama ayarları [appsettings.json](QwenOllama/QwenOllama.ConsoleMemoryLab/app
 {
   "Ollama": {
     "BaseUrl": "http://localhost:11434",
-    "Model": "qwen2.5:7b",
+    "Model": "qwen3.6:latest",
     "UseStreaming": true
   },
   "Memory": {
