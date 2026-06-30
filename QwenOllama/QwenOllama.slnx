@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="QwenOllama.ConsoleMemoryLab.Tests/QwenOllama.ConsoleMemoryLab.Tests.csproj" />
+  <Project Path="QwenOllama.ConsoleMemoryLab/QwenOllama.ConsoleMemoryLab.csproj" />
+</Solution>
